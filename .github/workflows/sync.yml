@@ -1,4 +1,4 @@
-name: Sync babd summarize
+name: Sync and summarize
 
 on:
   schedule:
