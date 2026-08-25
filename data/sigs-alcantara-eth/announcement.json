@@ -1,0 +1,14 @@
+{
+  "value": {
+    "validator": "0x0ddd272ea5997281a026f33e53c2dcd29b7d702c",
+    "mailbox_address": "0x00000000000000000000000082a729a4c7b2aebddbfccf533e7b75c61c45c23c",
+    "mailbox_domain": 1,
+    "storage_location": "s3://kadena-hyperlane-sigs-963540390590-us-east-1-an/us-east-1/sigs-alcantara-eth"
+  },
+  "signature": {
+    "r": "0x52e1384301ae87169cc49ef79cb9fa2aafe49dc9c4dd76c3606bf79572026cdd",
+    "s": "0x38417efc23fccb07b5c0a5167725e3d141cc77730bcdc9896d1d910b8d8e03ed",
+    "v": 28
+  },
+  "serialized_signature": "0x52e1384301ae87169cc49ef79cb9fa2aafe49dc9c4dd76c3606bf79572026cdd38417efc23fccb07b5c0a5167725e3d141cc77730bcdc9896d1d910b8d8e03ed1c"
+}

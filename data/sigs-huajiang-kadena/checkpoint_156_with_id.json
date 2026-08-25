@@ -1,0 +1,17 @@
+{
+  "value": {
+    "checkpoint": {
+      "merkle_tree_hook_address": "0x6d65726b6c652d747265652d686f6f6b00000000000000000000000000000000",
+      "mailbox_domain": 626,
+      "root": "0x7170f88e88ee44281dcffb3c4ea3ca464f489ebfa923939d3fb95368204d94bd",
+      "index": 156
+    },
+    "message_id": "0x1d9342ceae6bc98a2b45cf519b13ac539a54fc6878423609fa880136ae87d044"
+  },
+  "signature": {
+    "r": "0xeb673ef62fc7f4b405f4e4f4e150279609cab76c72aa813b3f88a0ab8ed4d936",
+    "s": "0x58447beb0721ff6cc2e85cb673e8b8ac94dee20a508574fc8d74ea3b6a401b90",
+    "v": 27
+  },
+  "serialized_signature": "0xeb673ef62fc7f4b405f4e4f4e150279609cab76c72aa813b3f88a0ab8ed4d93658447beb0721ff6cc2e85cb673e8b8ac94dee20a508574fc8d74ea3b6a401b901b"
+}

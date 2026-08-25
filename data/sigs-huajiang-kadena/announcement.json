@@ -1,0 +1,14 @@
+{
+  "value": {
+    "validator": "0xc32b401467d030cb9fd37f16b1a1a111fc28e7d3",
+    "mailbox_address": "0x6d61696c626f7800000000000000000000000000000000000000000000000000",
+    "mailbox_domain": 626,
+    "storage_location": "s3://kadena-hyperlane-sigs-963540390590-us-east-1-an/us-east-1/sigs-huajiang-kadena"
+  },
+  "signature": {
+    "r": "0x7f8ce4930f714f57e359198cbe7eb196dd301572d830778264b391b1c206b156",
+    "s": "0x562302efbde3c809d9cede1f8fdbb6021b279be0a250bce2a1c7fcbf293f11b5",
+    "v": 27
+  },
+  "serialized_signature": "0x7f8ce4930f714f57e359198cbe7eb196dd301572d830778264b391b1c206b156562302efbde3c809d9cede1f8fdbb6021b279be0a250bce2a1c7fcbf293f11b51b"
+}

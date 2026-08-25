@@ -1,0 +1,14 @@
+{
+  "value": {
+    "validator": "0xda74df375633e752175e9b84d2745fd507090ac7",
+    "mailbox_address": "0x6d61696c626f7800000000000000000000000000000000000000000000000000",
+    "mailbox_domain": 626,
+    "storage_location": "s3://kadena-hyperlane-sigs-963540390590-us-east-1-an/us-east-1/sigs-mackinac-kadena"
+  },
+  "signature": {
+    "r": "0xa10bbf6255f8d011545657c5e5fd1a763dcc9d88d8b1aa1df8a08fb883b8cd46",
+    "s": "0x79ae3e427e9a442b0b3ee12429cf60d4d56064a65a5885c9fd8b7b4b21627167",
+    "v": 27
+  },
+  "serialized_signature": "0xa10bbf6255f8d011545657c5e5fd1a763dcc9d88d8b1aa1df8a08fb883b8cd4679ae3e427e9a442b0b3ee12429cf60d4d56064a65a5885c9fd8b7b4b216271671b"
+}
