@@ -1,6 +1,8 @@
+name: Sync babd summarize
+
 on:
-#  schedule:
-#    - cron: '0 * * * *' # toutes les heures
+  schedule:
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:

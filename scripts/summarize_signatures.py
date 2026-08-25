@@ -5,6 +5,7 @@ import json
 
 pattern = re.compile(r"^sigs-(?P<name>[^-]+)-(?P<domain>[^-]+)$")
 
+CHECKPOINT_RE = re.compile(r"^checkpoint_(\d+)_with_id\.json$")
 
 DATA=Path("data")
 
@@ -19,15 +20,17 @@ for x in DATA.iterdir():
       validator = m.group("name")
       domain = m.group("domain")
 
+      height = 0
+      for cp in x.iterdir():
+        match = CHECKPOINT_RE.match(cp.name)
 
-      latest = x.joinpath("checkpoint_latest_index.json")
-      if latest.exists():
-        with open(latest) as fd:
-          height = int(fd.read())
+        if match:
+          checkpoint_id = int(match.group(1))
+          height = max(checkpoint_id, height)
 
-        total[domain] = max(total[domain], height)
+      total[domain] = max(total[domain], height)
 
-        validators[domain][validator] = {"name": validator, "height":height}
+      validators[domain][validator] = {"name": validator, "height":height}
 
 for d in ["kadena", "eth"]:
   for val in validators[d].values():
