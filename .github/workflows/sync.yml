@@ -35,7 +35,8 @@ jobs:
           aws s3 sync \
             s3://kadena-hyperlane-sigs-963540390590-us-east-1-an \
             ./data \
-            --delete --dryrun
+            --delete \
+            --size-only
 
       - name: Summarize
         run: |
