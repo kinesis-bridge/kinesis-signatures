@@ -29,6 +29,10 @@ jobs:
             ./data \
             --delete
 
+      - name: Summarize
+        run: |
+          python3 scripts/summarize_signatures.py
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
