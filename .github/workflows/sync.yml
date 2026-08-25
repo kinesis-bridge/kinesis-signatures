@@ -14,6 +14,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
 
+      - name: Debug before sync
+
+      - name: Debug before sync
+        run: |
+          echo "Files in data:"
+          find data | head -20 || true
+          echo
+          echo "Count:"
+          find data -type f | wc -l || true
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v6
         with:
@@ -27,7 +37,7 @@ jobs:
           aws s3 sync \
             s3://kadena-hyperlane-sigs-963540390590-us-east-1-an \
             ./data \
-            --delete
+            --delete --dryrun
 
       - name: Summarize
         run: |
