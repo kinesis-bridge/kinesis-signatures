@@ -37,4 +37,4 @@ for d in ["kadena", "eth"]:
     val["ok"] = total[d] == val["height"]
 
 with open("summary.json","w") as fd:
-  json.dump( {"total": total, "validators":validators}, fd)
+  json.dump( {"total": total, "validators":validators}, fd, indent=4)
