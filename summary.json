@@ -1,23 +1,23 @@
 {
     "total": {
-        "kadena": 657,
+        "kadena": 663,
         "eth": 535
     },
     "validators": {
         "kadena": {
             "mackinac": {
                 "name": "mackinac",
-                "height": 657,
+                "height": 663,
                 "ok": true
             },
             "alcantara": {
                 "name": "alcantara",
-                "height": 657,
+                "height": 663,
                 "ok": true
             },
             "huajiang": {
                 "name": "huajiang",
-                "height": 657,
+                "height": 663,
                 "ok": true
             }
         },
