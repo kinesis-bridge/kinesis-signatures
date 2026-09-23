@@ -7,8 +7,8 @@
         "kadena": {
             "mackinac": {
                 "name": "mackinac",
-                "height": 734,
-                "ok": false
+                "height": 736,
+                "ok": true
             },
             "alcantara": {
                 "name": "alcantara",
