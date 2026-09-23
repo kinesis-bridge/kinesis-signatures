@@ -5,11 +5,6 @@
     },
     "validators": {
         "kadena": {
-            "mackinac": {
-                "name": "mackinac",
-                "height": 736,
-                "ok": true
-            },
             "alcantara": {
                 "name": "alcantara",
                 "height": 736,
@@ -17,30 +12,35 @@
             },
             "huajiang": {
                 "name": "huajiang",
-                "height": 735,
-                "ok": false
+                "height": 736,
+                "ok": true
+            },
+            "mackinac": {
+                "name": "mackinac",
+                "height": 736,
+                "ok": true
             }
         },
         "eth": {
-            "mackinac": {
-                "name": "mackinac",
-                "height": 591,
-                "ok": true
-            },
-            "alcantara": {
-                "name": "alcantara",
-                "height": 591,
-                "ok": true
-            },
-            "huajiang": {
-                "name": "huajiang",
-                "height": 591,
-                "ok": true
-            },
             "tmp": {
                 "name": "tmp",
                 "height": 0,
                 "ok": false
+            },
+            "alcantara": {
+                "name": "alcantara",
+                "height": 591,
+                "ok": true
+            },
+            "huajiang": {
+                "name": "huajiang",
+                "height": 591,
+                "ok": true
+            },
+            "mackinac": {
+                "name": "mackinac",
+                "height": 591,
+                "ok": true
             }
         }
     }
