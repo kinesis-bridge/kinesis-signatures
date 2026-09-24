@@ -46,4 +46,4 @@ for domain in DOMAINS:
   total[domain] = max_domain_cp
 
 with open("summary.json","w") as fd:
-  json.dump( {"total": total, "validators":validators}, fd, indent=4)
+  json.dump( {"total": total, "validators":validators}, fd, indent=4, sort_keys=True)
