@@ -28,9 +28,9 @@
         },
         "kadena": {
             "alcantara": {
-                "height": 770,
+                "height": 772,
                 "name": "alcantara",
-                "ok": false
+                "ok": true
             },
             "huajiang": {
                 "height": 772,
@@ -38,9 +38,9 @@
                 "ok": true
             },
             "mackinac": {
-                "height": 770,
+                "height": 772,
                 "name": "mackinac",
-                "ok": false
+                "ok": true
             }
         }
     }
