@@ -1,22 +1,22 @@
 {
     "total": {
-        "eth": 675,
-        "kadena": 778
+        "eth": 676,
+        "kadena": 779
     },
     "validators": {
         "eth": {
             "alcantara": {
-                "height": 675,
+                "height": 676,
                 "name": "alcantara",
                 "ok": true
             },
             "huajiang": {
-                "height": 675,
+                "height": 676,
                 "name": "huajiang",
                 "ok": true
             },
             "mackinac": {
-                "height": 675,
+                "height": 676,
                 "name": "mackinac",
                 "ok": true
             },
@@ -30,17 +30,17 @@
             "alcantara": {
                 "height": 778,
                 "name": "alcantara",
-                "ok": true
+                "ok": false
             },
             "huajiang": {
-                "height": 778,
+                "height": 779,
                 "name": "huajiang",
                 "ok": true
             },
             "mackinac": {
                 "height": 778,
                 "name": "mackinac",
-                "ok": true
+                "ok": false
             }
         }
     }
