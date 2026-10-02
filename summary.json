@@ -19,11 +19,6 @@
                 "height": 681,
                 "name": "mackinac",
                 "ok": true
-            },
-            "tmp": {
-                "height": 0,
-                "name": "tmp",
-                "ok": false
             }
         },
         "kadena": {
