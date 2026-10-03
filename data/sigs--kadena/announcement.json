@@ -1,0 +1,14 @@
+{
+  "value": {
+    "validator": "0x5895a6038ac422f74932cb5fbfe028d15de7d424",
+    "mailbox_address": "0x6d61696c626f7800000000000000000000000000000000000000000000000000",
+    "mailbox_domain": 626,
+    "storage_location": "s3://kadena-hyperlane-sigs-963540390590-us-east-1-an/us-east-1/sigs--kadena"
+  },
+  "signature": {
+    "r": "0x6b7d5a408a575fa96b928c726ea0a83901fcd4e8719d321862b229bdcd613543",
+    "s": "0x7f3f22c12053805b775a9a3f8fd8e3d25b21f617f6548280e2586577feb6c63e",
+    "v": 28
+  },
+  "serialized_signature": "0x6b7d5a408a575fa96b928c726ea0a83901fcd4e8719d321862b229bdcd6135437f3f22c12053805b775a9a3f8fd8e3d25b21f617f6548280e2586577feb6c63e1c"
+}
