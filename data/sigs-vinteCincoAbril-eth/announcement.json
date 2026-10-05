@@ -1,0 +1,14 @@
+{
+  "value": {
+    "validator": "0x6ca4cb8ae403e22b8cd80058b6eb95aab076a42f",
+    "mailbox_address": "0x00000000000000000000000082a729a4c7b2aebddbfccf533e7b75c61c45c23c",
+    "mailbox_domain": 1,
+    "storage_location": "s3://kadena-hyperlane-sigs-963540390590-us-east-1-an/us-east-1/sigs-vinteCincoAbril-eth"
+  },
+  "signature": {
+    "r": "0x9f182f0982e28c3f5026c0113ccfc1feaca1bcb2dae95fca6025aef41df254d0",
+    "s": "0xacda717b39a5f86839e68a9c73e53a8d5561211d6183ede4e9e22bdbba7ba40",
+    "v": 27
+  },
+  "serialized_signature": "0x9f182f0982e28c3f5026c0113ccfc1feaca1bcb2dae95fca6025aef41df254d00acda717b39a5f86839e68a9c73e53a8d5561211d6183ede4e9e22bdbba7ba401b"
+}
