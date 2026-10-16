@@ -1,0 +1,14 @@
+{
+  "value": {
+    "validator": "0x39d9979fe8c1059c74a9fc965916cfe0722ed079",
+    "mailbox_address": "0x00000000000000000000000082a729a4c7b2aebddbfccf533e7b75c61c45c23c",
+    "mailbox_domain": 1,
+    "storage_location": "s3://kadena-hyperlane-sigs-963540390590-us-east-1-an/us-east-1/sigs-canakkale-eth"
+  },
+  "signature": {
+    "r": "0x6d30a658ff832e17d9fdea4c2fa609fd36bb6dcfd723c0d1472a1861185c8fb0",
+    "s": "0x42a60e3fdef6a5da1769a67c5dc4bfc4b8c0b3ed3c151a104a4781eefbd898ae",
+    "v": 27
+  },
+  "serialized_signature": "0x6d30a658ff832e17d9fdea4c2fa609fd36bb6dcfd723c0d1472a1861185c8fb042a60e3fdef6a5da1769a67c5dc4bfc4b8c0b3ed3c151a104a4781eefbd898ae1b"
+}
