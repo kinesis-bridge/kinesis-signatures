@@ -1,7 +1,7 @@
 {
     "total": {
         "eth": 733,
-        "kadena": 862
+        "kadena": 863
     },
     "validators": {
         "eth": {
@@ -35,15 +35,15 @@
             "alcantara": {
                 "height": 862,
                 "name": "alcantara",
-                "ok": true
+                "ok": false
             },
             "canakkale": {
                 "height": 862,
                 "name": "canakkale",
-                "ok": true
+                "ok": false
             },
             "huajiang": {
-                "height": 862,
+                "height": 863,
                 "name": "huajiang",
                 "ok": true
             },
@@ -55,7 +55,7 @@
             "vinteCincoAbril": {
                 "height": 862,
                 "name": "vinteCincoAbril",
-                "ok": true
+                "ok": false
             }
         }
     }
