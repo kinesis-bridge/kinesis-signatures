@@ -1,7 +1,7 @@
 {
     "total": {
         "eth": 736,
-        "kadena": 868
+        "kadena": 869
     },
     "validators": {
         "eth": {
@@ -33,17 +33,17 @@
         },
         "kadena": {
             "alcantara": {
-                "height": 868,
+                "height": 869,
                 "name": "alcantara",
                 "ok": true
             },
             "canakkale": {
-                "height": 868,
+                "height": 869,
                 "name": "canakkale",
                 "ok": true
             },
             "huajiang": {
-                "height": 868,
+                "height": 869,
                 "name": "huajiang",
                 "ok": true
             },
@@ -53,7 +53,7 @@
                 "ok": false
             },
             "vinteCincoAbril": {
-                "height": 868,
+                "height": 869,
                 "name": "vinteCincoAbril",
                 "ok": true
             }
