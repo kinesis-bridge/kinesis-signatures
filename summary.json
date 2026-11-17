@@ -1,49 +1,49 @@
 {
     "total": {
-        "eth": 758,
-        "kadena": 899
+        "eth": 761,
+        "kadena": 906
     },
     "validators": {
         "eth": {
             "alcantara": {
-                "height": 758,
+                "height": 761,
                 "name": "alcantara",
                 "ok": true
             },
             "canakkale": {
-                "height": 758,
+                "height": 761,
                 "name": "canakkale",
                 "ok": true
             },
             "huajiang": {
-                "height": 758,
+                "height": 761,
                 "name": "huajiang",
                 "ok": true
             },
             "mackinac": {
-                "height": 758,
+                "height": 761,
                 "name": "mackinac",
                 "ok": true
             },
             "vinteCincoAbril": {
-                "height": 758,
+                "height": 761,
                 "name": "vinteCincoAbril",
                 "ok": true
             }
         },
         "kadena": {
             "alcantara": {
-                "height": 899,
+                "height": 906,
                 "name": "alcantara",
                 "ok": true
             },
             "canakkale": {
-                "height": 899,
+                "height": 906,
                 "name": "canakkale",
                 "ok": true
             },
             "huajiang": {
-                "height": 899,
+                "height": 906,
                 "name": "huajiang",
                 "ok": true
             },
@@ -53,7 +53,7 @@
                 "ok": false
             },
             "vinteCincoAbril": {
-                "height": 899,
+                "height": 906,
                 "name": "vinteCincoAbril",
                 "ok": true
             }
