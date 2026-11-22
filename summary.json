@@ -21,9 +21,9 @@
                 "ok": true
             },
             "mackinac": {
-                "height": 770,
+                "height": 771,
                 "name": "mackinac",
-                "ok": false
+                "ok": true
             },
             "vinteCincoAbril": {
                 "height": 771,
@@ -48,9 +48,9 @@
                 "ok": true
             },
             "mackinac": {
-                "height": 917,
+                "height": 918,
                 "name": "mackinac",
-                "ok": false
+                "ok": true
             },
             "vinteCincoAbril": {
                 "height": 918,
